@@ -1,1 +1,1 @@
-# YunoTemplat
+# https://eduardo-etec.github.io/YunoTemplat/
